@@ -12,7 +12,7 @@ To analyze **monthly revenue** and **order volume** using SQL aggregations to id
 ---
 
 ## 📂 Dataset Overview
-- **Table Name:** `online_sales`
+- **Table Name:** `online_sales`()https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset
 - **Important Columns:**
   - `order_date` – Date of order
   - `amount` – Revenue from a single order
